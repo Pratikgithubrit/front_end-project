@@ -1,3 +1,3 @@
-# front_end-project
-this is a quote maker made using HTML,CSS and javascript.
-It helps you in making your own quotes and then downloading it in your system.
+# Quotes-Maker
+QuotesCover turns any text you write into beautiful graphics for social and web by combining exclusive fonts and breathtaking backgrounds.
+No Design Skill Or SignUp Required.
